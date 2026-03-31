@@ -1,0 +1,16 @@
+# Dependencies (if any are ever added)
+node_modules/
+
+# Generated but shouldn't be committed with real keys
+# (icons are fine to commit once generated)
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
